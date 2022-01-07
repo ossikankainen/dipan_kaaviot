@@ -1,1 +1,52 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T13:44:23.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" version="16.2.2" etag="roz7F5Ijvmr4qiGP5lCN" type="github"><diagram id="ubn3zAl8sy80FaPmm72c">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-07T13:51:19.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="MQCNbkxWJoOkBqZO50ba" version="16.2.2" type="github">
+  <diagram id="ubn3zAl8sy80FaPmm72c" name="Page-1">
+    <mxGraphModel dx="782" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-1" value="" style="triangle;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="280" width="200" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-2" value="" style="endArrow=none;html=1;rounded=0;entryX=0.793;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.793;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GpXC3U6q2mtX4WN9qL7r-1" target="GpXC3U6q2mtX4WN9qL7r-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="80" as="sourcePoint" />
+            <mxPoint x="430" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.595;exitY=0.296;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.603;entryY=0.698;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GpXC3U6q2mtX4WN9qL7r-1" target="GpXC3U6q2mtX4WN9qL7r-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="120" as="sourcePoint" />
+            <mxPoint x="430" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-4" value="" style="endArrow=none;html=1;rounded=0;entryX=0.408;entryY=0.793;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="GpXC3U6q2mtX4WN9qL7r-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="297" y="158" as="sourcePoint" />
+            <mxPoint x="424.0799999999999" y="99.59999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.213;entryY=0.896;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.208;exitY=0.109;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GpXC3U6q2mtX4WN9qL7r-1" target="GpXC3U6q2mtX4WN9qL7r-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="110" as="sourcePoint" />
+            <mxPoint x="434.0799999999999" y="109.59999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-7" value="Business planning &amp;amp; logistics" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-9" value="Manufacturing operations &amp;amp; control" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-10" value="Process supervisory control" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-11" value="Process control" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GpXC3U6q2mtX4WN9qL7r-12" value="Production process" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
